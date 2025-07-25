@@ -1,1 +1,1 @@
-#I love CMU
+# I love KMUTT
