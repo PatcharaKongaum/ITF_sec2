@@ -1,3 +1,2 @@
 # I love KMUTT
-I'm a student @ SIT KMUTT
-My name is GodKnowZ_
+I'm a student @ IT KMITL
