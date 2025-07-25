@@ -1,2 +1,2 @@
 # I love KMUTT
-SIT @ KMUTT
+I'm a student @ SIT KMUTT
